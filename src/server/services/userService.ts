@@ -1,5 +1,5 @@
 export const userService = {
-    authenticate
+    authenticate,
 }
 
 function authenticate(username:string, password:string) {
